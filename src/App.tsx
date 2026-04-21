@@ -150,13 +150,13 @@ export default function App() {
               className="mt-8 flex items-center gap-5 text-slate-400"
             >
               <li>
-                <a href="https://github.com/manishwadhwani1998" target="_blank" rel="noreferrer" className="hover:text-slate-200 hover:scale-110 transition-all">
+                <a href="https://github.com/manishwadhwani2" target="_blank" rel="noreferrer" className="hover:text-slate-200 hover:scale-110 transition-all">
                   <span className="sr-only">GitHub</span>
                   <Github className="h-6 w-6" />
                 </a>
               </li>
               <li>
-                <a href="https://linkedin.com/in/manishwadhwani1998" target="_blank" rel="noreferrer" className="hover:text-slate-200 hover:scale-110 transition-all">
+                <a href="https://www.linkedin.com/in/manish-wadhwani-607bb6160/" target="_blank" rel="noreferrer" className="hover:text-slate-200 hover:scale-110 transition-all">
                   <span className="sr-only">LinkedIn</span>
                   <Linkedin className="h-6 w-6" />
                 </a>
