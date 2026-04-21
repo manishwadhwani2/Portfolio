@@ -21,7 +21,7 @@ const EXPERIENCE = [
     company: "Fujitsu",
     location: "Bangalore",
     role: "Senior Software Engineer",
-    period: "2023 \u2014 2024",
+    period: "2023 - 2024",
     details: [
       "Engineered a high-availability network re-establishment module using Java and Spring Boot, implementing automated recovery logic that increased network reliability and achieved a 30% reduction in dropped calls.",
       "Developed a seamless handoff feature utilizing Spring State Machine and Reactive Programming to ensure uninterrupted connectivity for users during high-velocity transitions between network nodes.",
@@ -34,7 +34,7 @@ const EXPERIENCE = [
     company: "Radisys",
     location: "Gurgaon",
     role: "Software Engineer",
-    period: "2021 \u2014 2023",
+    period: "2021 - 2023",
     details: [
       "Architected a scalable network resource allocation service using Java and Kafka, effectively reducing end-to-end latency for telecom subscribers through asynchronous processing.",
       "Improved system throughput and stability by conducting deep-dive performance tuning; utilized VisualVM and JProfiler to resolve 100+ critical bottlenecks and memory leaks within the JVM heap.",
@@ -266,7 +266,7 @@ export default function App() {
               <div className="group relative grid pb-1 sm:grid-cols-8 sm:gap-8 md:gap-4 hover:glass-card p-4 lg:p-6 rounded-2xl transition-all pl-6 border-l border-slate-800 lg:border-transparent lg:hover:border-slate-800 ml-2 lg:ml-0">
                 <div className="absolute left-[-1px] top-4 lg:top-6 w-[1px] h-6 lg:h-4 bg-sky-400 opacity-0 group-hover:opacity-100 transition-opacity hidden lg:block"></div>
                 <header className="z-10 mb-2 mt-1 text-xs font-semibold uppercase tracking-wide text-slate-500 sm:col-span-2">
-                  2017 \u2014 2021
+                  2017 - 2021
                 </header>
                 <div className="z-10 sm:col-span-6">
                   <h3 className="font-medium leading-snug text-white">
